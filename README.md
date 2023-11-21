@@ -18,7 +18,7 @@ Brief description or tagline about your project.
 NASA APOD Project is an application that leverages NASA's Astronomy Picture of the Day API to bring you stunning images and fascinating information about the cosmos. Stay informed about the latest celestial discoveries and explore a gallery of images from the past.
 
 ## Overview 
-![APOD](assets\APOD.jpg)
+![APOD](assets/APOD.jpg)
 
 
 
