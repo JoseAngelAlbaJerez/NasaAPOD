@@ -1,9 +1,9 @@
 import React, {useEffect, useState} from "react";
 import {StyleSheet, View} from 'react-native';
 import Header from "../../molecules/header";
-import fetch from "../utils/fetch";
+import fetch from "../../../utils/fetch";
 import TodaysImage from "../../molecules/todays-image";
-import { PostImage } from "./types";
+import { PostImage } from "../../../types";
 import { format, sub } from "date-fns";
 import LastFiveDaysImg from "../../molecules/last-five-days-images";
 
