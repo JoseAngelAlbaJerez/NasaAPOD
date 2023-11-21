@@ -1,6 +1,6 @@
-# Project Name
+# NASA APOD
 
-Brief description or tagline about your project.
+
 
 ## Table of Contents
 
