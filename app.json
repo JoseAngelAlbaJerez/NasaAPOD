@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NasaAPOD",
-    "slug": "NasaAPOD",
+    "name": "ProyectNasa",
+    "slug": "ProyectNasa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
